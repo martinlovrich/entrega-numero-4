@@ -1,0 +1,12 @@
+{
+	"version": 3,
+	"file": "styles.css",
+	"sources": [
+		"../sass/styles.scss"
+	],
+	"sourcesContent": [
+		"body{\r\n    \r\n    background-color: rgb(240, 227, 196);\r\n    font-style: italic;\r\n    background-size: cover;\r\n    margin:0;\r\n    padding: 0;\r\n}\r\n\r\nh1{\r\ntext-align: center;\r\n}\r\n\r\n\r\n\r\n\r\n#galeria1 img:hover{\r\ntransform:scale(1.05);\r\n}\r\n#galeria2 img:hover{\r\ntransform:scale(1.05);\r\n}\r\n#galeria1 .col-lg-3{\r\nbox-shadow: 2px 2px 2px 2px rgb(226, 192, 147);\r\npadding: 20px;\r\nmargin: 0 !important;\r\nwidth: 300px;\r\nheight: 300px;\r\n}\r\n\r\n#galeria1 img{\r\nwidth: 100%;\r\nheight: 250px;\r\ntransition: transform 0.8s;\r\ncursor: pointer;\r\n\r\n}\r\n\r\n#galeria2 .col-lg-3{\r\nmargin: 0 !important;\r\npadding: 20px;\r\nbox-shadow: 5px 5px 5px 5px rgb(226, 192, 147);\r\nwidth: 300px;\r\nheight: 300px;\r\n\r\n}\r\n\r\n#galeria2 img{\r\nwidth: 100%;\r\nheight: 250px;\r\ntransition: transform 0.8s;\r\ncursor: pointer\r\n\r\n}\r\nform{\r\nwidth: 40%;\r\npadding: 10px;\r\nborder: solid 3px;\r\n}\r\n\r\n\r\n\r\n"
+	],
+	"names": [],
+	"mappings": ";AAAA,AAAA,IAAI,CAAA;EAEA,gBAAgB,EAAE,OAAkB;EACpC,UAAU,EAAE,MAAM;EAClB,eAAe,EAAE,KAAK;EACtB,MAAM,EAAC,CAAC;EACR,OAAO,EAAE,CAAC;CACb;;;AAED,AAAA,EAAE,CAAA;EACF,UAAU,EAAE,MAAM;CACjB;;;AAKD,AAAA,SAAS,CAAC,GAAG,AAAA,MAAM,CAAA;EACnB,SAAS,EAAC,WAAW;CACpB;;;AACD,AAAA,SAAS,CAAC,GAAG,AAAA,MAAM,CAAA;EACnB,SAAS,EAAC,WAAW;CACpB;;;AACD,AAAA,SAAS,CAAC,SAAS,CAAA;EACnB,UAAU,EAAE,GAAG,CAAC,GAAG,CAAC,GAAG,CAAC,GAAG,CAAC,OAAkB;EAC9C,OAAO,EAAE,IAAI;EACb,MAAM,EAAE,YAAY;EACpB,KAAK,EAAE,KAAK;EACZ,MAAM,EAAE,KAAK;CACZ;;;AAED,AAAA,SAAS,CAAC,GAAG,CAAA;EACb,KAAK,EAAE,IAAI;EACX,MAAM,EAAE,KAAK;EACb,UAAU,EAAE,cAAc;EAC1B,MAAM,EAAE,OAAO;CAEd;;;AAED,AAAA,SAAS,CAAC,SAAS,CAAA;EACnB,MAAM,EAAE,YAAY;EACpB,OAAO,EAAE,IAAI;EACb,UAAU,EAAE,GAAG,CAAC,GAAG,CAAC,GAAG,CAAC,GAAG,CAAC,OAAkB;EAC9C,KAAK,EAAE,KAAK;EACZ,MAAM,EAAE,KAAK;CAEZ;;;AAED,AAAA,SAAS,CAAC,GAAG,CAAA;EACb,KAAK,EAAE,IAAI;EACX,MAAM,EAAE,KAAK;EACb,UAAU,EAAE,cAAc;EAC1B,MAAM,EAAE,OAER;CAAC;;;AACD,AAAA,IAAI,CAAA;EACJ,KAAK,EAAE,GAAG;EACV,OAAO,EAAE,IAAI;EACb,MAAM,EAAE,SAAS;CAChB"
+}
